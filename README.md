@@ -1,5 +1,6 @@
 # MCLogReader
 This is a program meant to read the server logs of minecraft to find the login and logout times of every player.
+(this file is much easier to read raw)
 
 This was created by David Rosenstein to find the total hours played by everyone on a Minecraft server.
 

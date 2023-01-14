@@ -3,6 +3,7 @@ import re
 import csv
 from glob import glob
 
+print ("hi")
 
 class Player:
     name = ''
